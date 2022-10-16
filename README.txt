@@ -1,4 +1,4 @@
-1. extract zip file
+1.download & extract zip file
 2. open the folder in vs code 
 3. open new terminal in vs code type (npm install) then (npm start)
 
